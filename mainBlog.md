@@ -49,4 +49,4 @@ In the final image, it shows that when you log in to the remote server, it won;t
 >>![image](part9_1.png)   
 >> One way is to bind to command in one single command line such as the top example. Where by calling "**ssh**" then adding **"ls"** at the end of the command, it shows that after connecting to the remote service, it directly open the library search command, showing all of the file in the directory.  
 >>![image](part9_2.png)  
->> The other was is to use the cursor to search previous comman, without retyping it
+>> The other was is to use the cursor to search previous comman, without retyping it.
