@@ -8,7 +8,7 @@
 
 >### Part 2: Remotely Connecting 
 >> If you you are in windows please install a program called [OpenSSH](https://code.visualstudio.com/), if you are in mac you can go open into your **terminal**. To connect to the virtual machine you can type the following command ( **ssh cs15lfa22xx@ieng6.ucsd.edu** ), the "xx" must be replaced by your course-specific account. Then it will give a message such as the following image;
->![Image](part2_1.png)
+>![Image](add.png)
 type in yes and press enter, afterward place in your password, which will lead you to the server such as the following image;
 >![Image](part2_2.png)
 now you are log in to the virtual machine.
@@ -18,11 +18,10 @@ now you are log in to the virtual machine.
 >>There are lots of command code that can be use some that are often being used are **cd, ls, pwd, mkdir, and cp** , where it can be user on local and remotely. Here are some of the command being used;
 >![Image](part3_1.png)
 ![Image](part3_2.png) 
->>- ls (library search),
->>- cd ()  
->>- ls ~lat (library search),
->>- ls -a ()
->>- exit or command + d, it will 
+>>- ls command will directly list the current directory command
+>>- cd (change directory), is command to change the current working directory to another directory  
+>>- ls -a, is an extension of ls command where it will open all 
+>>- exit or command + d, it will exit from the virtual machine or end the terminal
 ---
 
 >### Part 4: Moving Files with **scp**
